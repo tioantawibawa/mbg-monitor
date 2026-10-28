@@ -51,31 +51,6 @@ Tidak perlu menjalankan Activate.ps1 atau mengubah ExecutionPolicy. Buka alamat 
 
 `--end` inklusif; semua tanggal menggunakan Asia/Jakarta. Proses bisa memakan beberapa menit. Jangan jalankan dua collector lokal bersamaan. Pengambilan ulang aman terhadap duplikasi artikel, tetapi tidak menjamin seluruh arsip berhasil ditemukan. Periksa `data/health.json` dan tab Kualitas data. `possibly_capped: true` berarti feed >=100 item: collector otomatis membagi rentang hingga satu hari (`subdivided: true`). Jika satu hari tetap terpotong, gunakan pencarian regional atau sumber tambahan. `status: partial/failed` menghasilkan exit code 1 dan tetap menyimpan hasil yang berhasil. `data/runs.json` menyimpan 90 run terbaru. Kegagalan tidak menghapus arsip sebelumnya.
 
-## 3. Push sendiri ke GitHub
-
-Di GitHub, buat repository kosong bernama `mbg-monitor` (jangan centang README/.gitignore/license agar tidak konflik). Untuk tutorial ini gunakan branch `main`. Folder proyek ini berada di dalam workspace lain: pastikan `git init` dilakukan **di folder mbg-monitor**.
-
-```powershell
-Set-Location 'C:\Users\tio\Documents\ChatGPT\New project\mbg-monitor'
-git init -b main
-git rev-parse --show-toplevel
-# Pastikan hasil berakhir dengan /mbg-monitor, lalu lanjut.
-git add .
-git status --short
-# Periksa daftar; .venv, secrets.toml, dan .env tidak boleh masuk.
-git commit -m 'Initial MBG monitoring dashboard'
-git remote add origin https://github.com/USERNAME/mbg-monitor.git
-git push -u origin main
-```
-
-Ganti `USERNAME` dengan username GitHub Tio. Autentikasi lewat Git Credential Manager/browser saat diminta; jangan menaruh token di kode atau URL remote. Jika Git belum memiliki identitas:
-
-```powershell
-git config user.name 'Tio Anta Wibawa'
-git config user.email 'EMAIL_GITHUB_ANDA'
-```
-
-Lalu ulangi commit/push yang sebelumnya gagal. Jika `origin` sudah ada, periksa `git remote -v` sebelum menggunakan `git remote set-url origin https://github.com/USERNAME/mbg-monitor.git`.
 
 ## 4. Aktifkan pengumpulan harian
 
@@ -87,15 +62,6 @@ Lalu ulangi commit/push yang sebelumnya gagal. Jika `origin` sudah ada, periksa 
 
 Workflow mengasumsikan push langsung ke `main` diperbolehkan. Jika branch protection melarang bot push, sesuaikan kebijakan repository atau ubah alur menjadi PR. Tidak ada bypass otomatis. Konflik saat pull/rebase membuat job gagal agar data tidak ditimpa; selesaikan konflik lalu jalankan ulang.
 
-## 5. Deploy ke Streamlit Community Cloud
-
-1. Buka https://share.streamlit.io dan hubungkan akun GitHub.
-2. Pilih **Create app** → repository `USERNAME/mbg-monitor`, branch `main`, main file `app.py`.
-3. Pada Advanced settings, pilih Python 3.12 bila tersedia. Tidak perlu secrets/API key.
-4. Deploy dan tunggu instalasi `requirements.txt` selesai.
-5. Buka aplikasi, cocokkan waktu pengambilan terakhir dengan `data/health.json` di GitHub.
-
-Streamlit mengikuti perubahan repository. Collector berjalan di GitHub Actions, bukan pada rerun pengunjung Streamlit, sehingga refresh halaman tidak menimbulkan scraping berulang. Jika data belum terlihat setelah commit, periksa status deployment dan lakukan reboot dari pengelola app.
 
 ## 6. Meninjau dan memperbarui insiden
 
