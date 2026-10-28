@@ -1,0 +1,1777 @@
+[
+  {
+    "started_at": "2026-10-29T00:17:03.248507+07:00",
+    "requested_start": "2026-01-01",
+    "requested_end_exclusive": "2026-10-30",
+    "queries": [
+      {
+        "start": "2026-01-01",
+        "end": "2026-01-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2025-12-31+before%3A2026-01-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-01-08",
+        "end": "2026-01-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-07+before%3A2026-01-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-01-15",
+        "end": "2026-01-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-14+before%3A2026-01-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-01-22",
+        "end": "2026-01-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-21+before%3A2026-01-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-01-29",
+        "end": "2026-02-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-28+before%3A2026-02-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-02-05",
+        "end": "2026-02-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-04+before%3A2026-02-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-02-12",
+        "end": "2026-02-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-11+before%3A2026-02-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-02-19",
+        "end": "2026-02-26",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-18+before%3A2026-02-26&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-02-26",
+        "end": "2026-03-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-25+before%3A2026-03-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-03-05",
+        "end": "2026-03-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-04+before%3A2026-03-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-03-12",
+        "end": "2026-03-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-11+before%3A2026-03-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-03-19",
+        "end": "2026-03-26",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-18+before%3A2026-03-26&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-03-26",
+        "end": "2026-04-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-25+before%3A2026-04-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-04-02",
+        "end": "2026-04-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-01+before%3A2026-04-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-04-09",
+        "end": "2026-04-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-08+before%3A2026-04-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-04-16",
+        "end": "2026-04-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-15+before%3A2026-04-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-04-23",
+        "end": "2026-04-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-22+before%3A2026-04-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-04-30",
+        "end": "2026-05-07",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-29+before%3A2026-05-07&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-05-07",
+        "end": "2026-05-14",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-06+before%3A2026-05-14&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-05-14",
+        "end": "2026-05-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-13+before%3A2026-05-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-05-21",
+        "end": "2026-05-28",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-20+before%3A2026-05-28&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-05-28",
+        "end": "2026-06-04",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-27+before%3A2026-06-04&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-06-04",
+        "end": "2026-06-11",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-03+before%3A2026-06-11&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-06-11",
+        "end": "2026-06-18",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-10+before%3A2026-06-18&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-06-18",
+        "end": "2026-06-25",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-17+before%3A2026-06-25&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-06-25",
+        "end": "2026-07-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-24+before%3A2026-07-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-07-02",
+        "end": "2026-07-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-01+before%3A2026-07-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-07-09",
+        "end": "2026-07-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-08+before%3A2026-07-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-07-16",
+        "end": "2026-07-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-15+before%3A2026-07-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-07-23",
+        "end": "2026-07-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-22+before%3A2026-07-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-07-30",
+        "end": "2026-08-06",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-29+before%3A2026-08-06&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-08-06",
+        "end": "2026-08-13",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-05+before%3A2026-08-13&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-08-13",
+        "end": "2026-08-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-12+before%3A2026-08-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-08-20",
+        "end": "2026-08-27",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-19+before%3A2026-08-27&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-08-27",
+        "end": "2026-09-03",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-26+before%3A2026-09-03&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-09-03",
+        "end": "2026-09-10",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-02+before%3A2026-09-10&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-09-10",
+        "end": "2026-09-17",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-09+before%3A2026-09-17&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-09-17",
+        "end": "2026-09-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-16+before%3A2026-09-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-09-24",
+        "end": "2026-10-01",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-23+before%3A2026-10-01&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-10-01",
+        "end": "2026-10-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-30+before%3A2026-10-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-10-08",
+        "end": "2026-10-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-07+before%3A2026-10-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-10-15",
+        "end": "2026-10-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-14+before%3A2026-10-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-10-22",
+        "end": "2026-10-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-21+before%3A2026-10-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      },
+      {
+        "start": "2026-10-29",
+        "end": "2026-10-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-28+before%3A2026-10-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "URLError: <urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+      }
+    ],
+    "added": 0,
+    "status": "failed",
+    "finished_at": "2026-10-29T00:19:43.374306+07:00",
+    "total_articles": 0,
+    "failed_queries": 44,
+    "last_success_at": null
+  },
+  {
+    "started_at": "2026-10-29T00:19:52.890822+07:00",
+    "requested_start": "2026-01-01",
+    "requested_end_exclusive": "2026-10-30",
+    "queries": [
+      {
+        "start": "2026-01-01",
+        "end": "2026-01-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2025-12-31+before%3A2026-01-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 20,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-08",
+        "end": "2026-01-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-07+before%3A2026-01-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 74,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-01-15",
+        "end": "2026-01-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-14+before%3A2026-01-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 55,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-01-22",
+        "end": "2026-01-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-21+before%3A2026-01-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 33,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-01-29",
+        "end": "2026-02-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-28+before%3A2026-02-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 78,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-02-05",
+        "end": "2026-02-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-04+before%3A2026-02-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 71,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-02-12",
+        "end": "2026-02-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-11+before%3A2026-02-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 5,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-02-19",
+        "end": "2026-02-26",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-18+before%3A2026-02-26&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 43,
+        "accepted": 16,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-02-26",
+        "end": "2026-03-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-25+before%3A2026-03-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 95,
+        "accepted": 43,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-05",
+        "end": "2026-03-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-04+before%3A2026-03-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 56,
+        "accepted": 24,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-12",
+        "end": "2026-03-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-11+before%3A2026-03-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 25,
+        "accepted": 11,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-19",
+        "end": "2026-03-26",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-18+before%3A2026-03-26&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 12,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-26",
+        "end": "2026-04-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-25+before%3A2026-04-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 19,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-02",
+        "end": "2026-04-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-01+before%3A2026-04-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 23,
+        "accepted": 21,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-09",
+        "end": "2026-04-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-08+before%3A2026-04-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 93,
+        "accepted": 53,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-16",
+        "end": "2026-04-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-15+before%3A2026-04-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 12,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-23",
+        "end": "2026-04-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-22+before%3A2026-04-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 93,
+        "accepted": 50,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-30",
+        "end": "2026-05-07",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-29+before%3A2026-05-07&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 68,
+        "accepted": 31,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-07",
+        "end": "2026-05-14",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-06+before%3A2026-05-14&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 71,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-05-14",
+        "end": "2026-05-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-13+before%3A2026-05-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 17,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-21",
+        "end": "2026-05-28",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-20+before%3A2026-05-28&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 51,
+        "accepted": 37,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-28",
+        "end": "2026-06-04",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-27+before%3A2026-06-04&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 39,
+        "accepted": 9,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-04",
+        "end": "2026-06-11",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-03+before%3A2026-06-11&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 7,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-11",
+        "end": "2026-06-18",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-10+before%3A2026-06-18&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 35,
+        "accepted": 11,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-18",
+        "end": "2026-06-25",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-17+before%3A2026-06-25&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-25",
+        "end": "2026-07-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-24+before%3A2026-07-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-02",
+        "end": "2026-07-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-01+before%3A2026-07-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-09",
+        "end": "2026-07-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-08+before%3A2026-07-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 31,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-16",
+        "end": "2026-07-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-15+before%3A2026-07-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 27,
+        "accepted": 17,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-23",
+        "end": "2026-07-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-22+before%3A2026-07-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 70,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-07-30",
+        "end": "2026-08-06",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-29+before%3A2026-08-06&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-06",
+        "end": "2026-08-13",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-05+before%3A2026-08-13&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 60,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-08-13",
+        "end": "2026-08-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-12+before%3A2026-08-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 8,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-20",
+        "end": "2026-08-27",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-19+before%3A2026-08-27&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 45,
+        "accepted": 22,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-27",
+        "end": "2026-09-03",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-26+before%3A2026-09-03&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-03",
+        "end": "2026-09-10",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-02+before%3A2026-09-10&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 65,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-09-10",
+        "end": "2026-09-17",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-09+before%3A2026-09-17&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 44,
+        "accepted": 33,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-17",
+        "end": "2026-09-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-16+before%3A2026-09-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 49,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-09-24",
+        "end": "2026-10-01",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-23+before%3A2026-10-01&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 80,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-01",
+        "end": "2026-10-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-30+before%3A2026-10-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 46,
+        "accepted": 31,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-08",
+        "end": "2026-10-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-07+before%3A2026-10-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 70,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-15",
+        "end": "2026-10-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-14+before%3A2026-10-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 69,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-22",
+        "end": "2026-10-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-21+before%3A2026-10-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 89,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-29",
+        "end": "2026-10-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-28+before%3A2026-10-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 88,
+        "accepted": 1,
+        "possibly_capped": false
+      }
+    ],
+    "added": 1406,
+    "status": "ok",
+    "finished_at": "2026-10-29T00:20:38.157960+07:00",
+    "total_articles": 1406,
+    "failed_queries": 0,
+    "last_success_at": "2026-10-29T00:20:38.157960+07:00"
+  },
+  {
+    "started_at": "2026-10-29T00:22:27.179863+07:00",
+    "requested_start": "2026-01-01",
+    "requested_end_exclusive": "2026-10-30",
+    "queries": [
+      {
+        "start": "2026-01-01",
+        "end": "2026-01-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2025-12-31+before%3A2026-01-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 20,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-08",
+        "end": "2026-01-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-07+before%3A2026-01-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 18,
+        "accepted": 15,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-15",
+        "end": "2026-01-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-14+before%3A2026-01-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 55,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-01-22",
+        "end": "2026-01-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-21+before%3A2026-01-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 5,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-29",
+        "end": "2026-02-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-28+before%3A2026-02-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 78,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-02-05",
+        "end": "2026-02-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-04+before%3A2026-02-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 71,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-02-12",
+        "end": "2026-02-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-11+before%3A2026-02-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 89,
+        "accepted": 45,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-02-19",
+        "end": "2026-02-26",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-18+before%3A2026-02-26&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 43,
+        "accepted": 16,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-02-26",
+        "end": "2026-03-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-25+before%3A2026-03-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 94,
+        "accepted": 42,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-05",
+        "end": "2026-03-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-04+before%3A2026-03-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 10,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-12",
+        "end": "2026-03-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-11+before%3A2026-03-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 25,
+        "accepted": 11,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-19",
+        "end": "2026-03-26",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-18+before%3A2026-03-26&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 12,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-03-26",
+        "end": "2026-04-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-03-25+before%3A2026-04-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 19,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-02",
+        "end": "2026-04-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-01+before%3A2026-04-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 63,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-04-09",
+        "end": "2026-04-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-08+before%3A2026-04-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 5,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-16",
+        "end": "2026-04-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-15+before%3A2026-04-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 12,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-23",
+        "end": "2026-04-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-22+before%3A2026-04-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-30",
+        "end": "2026-05-07",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-29+before%3A2026-05-07&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 68,
+        "accepted": 31,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-07",
+        "end": "2026-05-14",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-06+before%3A2026-05-14&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 14,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-14",
+        "end": "2026-05-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-13+before%3A2026-05-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 17,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-21",
+        "end": "2026-05-28",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-20+before%3A2026-05-28&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 7,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-05-28",
+        "end": "2026-06-04",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-05-27+before%3A2026-06-04&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 2,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-04",
+        "end": "2026-06-11",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-03+before%3A2026-06-11&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 69,
+        "accepted": 29,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-11",
+        "end": "2026-06-18",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-10+before%3A2026-06-18&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 3,
+        "accepted": 2,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-18",
+        "end": "2026-06-25",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-17+before%3A2026-06-25&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-06-25",
+        "end": "2026-07-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-06-24+before%3A2026-07-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 15,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-02",
+        "end": "2026-07-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-01+before%3A2026-07-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-09",
+        "end": "2026-07-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-08+before%3A2026-07-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 5,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-16",
+        "end": "2026-07-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-15+before%3A2026-07-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 27,
+        "accepted": 17,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-23",
+        "end": "2026-07-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-22+before%3A2026-07-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 32,
+        "accepted": 24,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-30",
+        "end": "2026-08-06",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-29+before%3A2026-08-06&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 64,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-08-06",
+        "end": "2026-08-13",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-05+before%3A2026-08-13&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 8,
+        "accepted": 2,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-13",
+        "end": "2026-08-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-12+before%3A2026-08-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 80,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-08-20",
+        "end": "2026-08-27",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-19+before%3A2026-08-27&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 5,
+        "accepted": 2,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-27",
+        "end": "2026-09-03",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-26+before%3A2026-09-03&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-03",
+        "end": "2026-09-10",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-02+before%3A2026-09-10&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 53,
+        "accepted": 38,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-10",
+        "end": "2026-09-17",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-09+before%3A2026-09-17&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 45,
+        "accepted": 34,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-17",
+        "end": "2026-09-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-16+before%3A2026-09-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 49,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-09-24",
+        "end": "2026-10-01",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-23+before%3A2026-10-01&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 36,
+        "accepted": 27,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-01",
+        "end": "2026-10-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-30+before%3A2026-10-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 46,
+        "accepted": 31,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-08",
+        "end": "2026-10-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-07+before%3A2026-10-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 70,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-15",
+        "end": "2026-10-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-14+before%3A2026-10-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 69,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-22",
+        "end": "2026-10-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-21+before%3A2026-10-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 89,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-29",
+        "end": "2026-10-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-28+before%3A2026-10-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 1,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-01-15",
+        "end": "2026-01-18",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-14+before%3A2026-01-18&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-18",
+        "end": "2026-01-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-17+before%3A2026-01-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 6,
+        "accepted": 5,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-29",
+        "end": "2026-02-01",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-28+before%3A2026-02-01&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 73,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-02-01",
+        "end": "2026-02-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-31+before%3A2026-02-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-02-05",
+        "end": "2026-02-08",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-04+before%3A2026-02-08&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 43,
+        "accepted": 27,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-02-08",
+        "end": "2026-02-12",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-02-07+before%3A2026-02-12&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 6,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-02",
+        "end": "2026-04-05",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-01+before%3A2026-04-05&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 10,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-04-05",
+        "end": "2026-04-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-04-04+before%3A2026-04-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 96,
+        "accepted": 41,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-07-30",
+        "end": "2026-08-02",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-07-29+before%3A2026-08-02&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 25,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-02",
+        "end": "2026-08-06",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-01+before%3A2026-08-06&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 56,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-08-13",
+        "end": "2026-08-16",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-12+before%3A2026-08-16&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 4,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-16",
+        "end": "2026-08-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-15+before%3A2026-08-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 72,
+        "accepted": 49,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-17",
+        "end": "2026-09-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-16+before%3A2026-09-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 27,
+        "accepted": 14,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-20",
+        "end": "2026-09-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-19+before%3A2026-09-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 41,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-08",
+        "end": "2026-10-11",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-07+before%3A2026-10-11&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 63,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-11",
+        "end": "2026-10-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-10+before%3A2026-10-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 49,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-15",
+        "end": "2026-10-18",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-14+before%3A2026-10-18&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 55,
+        "accepted": 36,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-18",
+        "end": "2026-10-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-17+before%3A2026-10-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 62,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-22",
+        "end": "2026-10-25",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-21+before%3A2026-10-25&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 68,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-25",
+        "end": "2026-10-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-24+before%3A2026-10-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 93,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-01-29",
+        "end": "2026-01-30",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-28+before%3A2026-01-30&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 83,
+        "accepted": 45,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-01-30",
+        "end": "2026-02-01",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-01-29+before%3A2026-02-01&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-02",
+        "end": "2026-08-04",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-01+before%3A2026-08-04&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 62,
+        "accepted": 34,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-08-04",
+        "end": "2026-08-06",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-08-03+before%3A2026-08-06&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-20",
+        "end": "2026-09-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-19+before%3A2026-09-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 21,
+        "accepted": 13,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-09-22",
+        "end": "2026-09-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-21+before%3A2026-09-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 28,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-08",
+        "end": "2026-10-09",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-07+before%3A2026-10-09&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 27,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-09",
+        "end": "2026-10-11",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-08+before%3A2026-10-11&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 50,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-11",
+        "end": "2026-10-13",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-10+before%3A2026-10-13&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 52,
+        "accepted": 21,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-13",
+        "end": "2026-10-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-12+before%3A2026-10-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 38,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-18",
+        "end": "2026-10-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-17+before%3A2026-10-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 71,
+        "accepted": 22,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-20",
+        "end": "2026-10-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-19+before%3A2026-10-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 66,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-22",
+        "end": "2026-10-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-21+before%3A2026-10-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 39,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-23",
+        "end": "2026-10-25",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-22+before%3A2026-10-25&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 61,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-10-25",
+        "end": "2026-10-27",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-24+before%3A2026-10-27&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 82,
+        "accepted": 35,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-27",
+        "end": "2026-10-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-26+before%3A2026-10-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 93,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-09-22",
+        "end": "2026-09-23",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-21+before%3A2026-09-23&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 26,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-09-23",
+        "end": "2026-09-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-09-22+before%3A2026-09-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 33,
+        "accepted": 10,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-09",
+        "end": "2026-10-10",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-08+before%3A2026-10-10&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 54,
+        "accepted": 21,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-10",
+        "end": "2026-10-11",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-09+before%3A2026-10-11&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 20,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-13",
+        "end": "2026-10-14",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-12+before%3A2026-10-14&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 51,
+        "accepted": 13,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-14",
+        "end": "2026-10-15",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-13+before%3A2026-10-15&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 32,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-20",
+        "end": "2026-10-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-19+before%3A2026-10-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 66,
+        "accepted": 13,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-10-21",
+        "end": "2026-10-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-20+before%3A2026-10-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 60,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-23",
+        "end": "2026-10-24",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-22+before%3A2026-10-24&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 55,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-24",
+        "end": "2026-10-25",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-23+before%3A2026-10-25&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 30,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-27",
+        "end": "2026-10-28",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-26+before%3A2026-10-28&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 38,
+        "possibly_capped": true
+      },
+      {
+        "start": "2026-10-28",
+        "end": "2026-10-29",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-10-27+before%3A2026-10-29&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 65,
+        "possibly_capped": true
+      }
+    ],
+    "added": 747,
+    "status": "ok",
+    "finished_at": "2026-10-29T00:23:55.046810+07:00",
+    "total_articles": 2153,
+    "failed_queries": 0,
+    "last_success_at": "2026-10-29T00:23:55.046810+07:00"
+  }
+]

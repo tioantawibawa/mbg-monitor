@@ -1,0 +1,5 @@
+streamlit==1.66.1
+pandas==2.3.3
+tzdata==2026.6
+altair>=5.0,<7
+pillow>=10.1,<14
