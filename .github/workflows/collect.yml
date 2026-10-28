@@ -1,6 +1,11 @@
 name: Daily MBG collection
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/collect.yml'
   schedule:
+    # 00.17 UTC = 07.17 WIB. The dashboard need not be open.
     - cron: '17 0 * * *'
   workflow_dispatch:
     inputs:
@@ -17,14 +22,17 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: '1'
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install tzdata
+      - run: python -m pip install tzdata==2026.6
       - name: Validate register and test collector
         run: python -m unittest discover -s tests -v
       - name: Collect RSS metadata
@@ -39,10 +47,12 @@ jobs:
             python -m src.collect --regional
           fi
       - name: Rebuild title-derived estimates
-        if: always()
+        id: estimates
+        if: ${{ !cancelled() && steps.scrape.outcome != 'skipped' }}
         run: python -m src.rebuild_estimates
       - name: Persist data and collection health
-        if: always()
+        id: persist
+        if: ${{ !cancelled() && steps.estimates.outcome == 'success' }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -53,6 +63,58 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Write collection summary
+        if: always()
+        env:
+          SCRAPE_OUTCOME: ${{ steps.scrape.outcome }}
+          ESTIMATES_OUTCOME: ${{ steps.estimates.outcome }}
+          PERSIST_OUTCOME: ${{ steps.persist.outcome }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          def read_json(name):
+              path = Path('data') / name
+              return json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+
+          health = read_json('health.json')
+          estimates = read_json('victim_estimates.json').get('summary', {})
+          lines = [
+              '## Pembaruan harian MBG',
+              '',
+              '| Pemeriksaan | Hasil |',
+              '|---|---|',
+              f"| Pengambilan RSS pada run ini | {os.environ['SCRAPE_OUTCOME']} |",
+              f"| Rekap estimasi pada run ini | {os.environ['ESTIMATES_OUTCOME']} |",
+              f"| Penyimpanan GitHub pada run ini | {os.environ['PERSIST_OUTCOME']} |",
+              f"| Waktu snapshot terakhir (WIB) | {health.get('finished_at', 'Belum tersedia')} |",
+              f"| Status snapshot | {health.get('status', 'Belum tersedia')} |",
+              f"| Kueri gagal pada snapshot | {health.get('failed_queries', 'Belum tersedia')} |",
+              f"| Artikel tersimpan | {health.get('total_articles', 'Belum tersedia')} |",
+              f"| Artikel baru pada snapshot | {health.get('added', 'Belum tersedia')} |",
+              f"| Kelompok estimasi yang dihitung | {estimates.get('included_clusters', 'Belum tersedia')} |",
+              '',
+              'Streamlit yang terhubung ke repository ini pada branch main akan menerima perubahan setelah commit data berhasil.',
+              'Jika pengambilan gagal, snapshot dapat berasal dari run sebelumnya. Periksa waktu snapshot dan log.',
+              'Jadwal berikutnya: setiap hari sekitar 07.17 WIB; GitHub dapat menunda eksekusi.',
+          ]
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as handle:
+              handle.write('\n'.join(lines) + '\n')
+          PY
+      - name: Keep collection reports for troubleshooting
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mbg-collection-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            data/health.json
+            data/victim_estimates.json
+            data/victims_by_province.csv
+            data/victims_timeseries.csv
+          if-no-files-found: warn
+          retention-days: 14
       - name: Report incomplete collection
         if: steps.scrape.outcome == 'failure'
         run: exit 1
