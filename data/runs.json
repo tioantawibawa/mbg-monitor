@@ -23875,5 +23875,642 @@
     "total_articles": 3748,
     "failed_queries": 0,
     "last_success_at": "2026-11-19T14:25:26.523789+07:00"
+  },
+  {
+    "started_at": "2026-11-20T14:14:24.579720+07:00",
+    "requested_start": "2026-11-13",
+    "requested_end_exclusive": "2026-11-21",
+    "queries": [
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Aceh",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Aceh+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sumatera Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Utara+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sumatera Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Barat+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Riau+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kepulauan Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Riau+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Jambi",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jambi+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sumatera Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Selatan+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Bengkulu",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bengkulu+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Lampung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Lampung+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kepulauan Bangka Belitung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Bangka+Belitung+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "DKI Jakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DKI+Jakarta+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Banten",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Banten+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Jawa Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Barat+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Jawa Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Tengah+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "DI Yogyakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DI+Yogyakarta+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Jawa Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Timur+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Bali",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bali+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Nusa Tenggara Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Barat+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Nusa Tenggara Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Timur+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kalimantan Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Barat+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kalimantan Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Tengah+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kalimantan Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Selatan+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kalimantan Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Timur+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Kalimantan Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Utara+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sulawesi Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Utara+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Gorontalo",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Gorontalo+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sulawesi Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tengah+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sulawesi Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Barat+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sulawesi Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Selatan+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Sulawesi Tenggara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tenggara+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Maluku Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+Utara+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Maluku",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Papua Barat Daya",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+Daya+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Papua Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Papua Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Tengah+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Papua Pegunungan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Pegunungan+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Papua Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Selatan+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-13",
+        "end": "2026-11-20",
+        "area": "Papua",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+after%3A2026-11-12+before%3A2026-11-20&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Aceh",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Aceh+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sumatera Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Utara+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sumatera Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Barat+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Riau+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kepulauan Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Riau+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Jambi",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jambi+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sumatera Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Selatan+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Bengkulu",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bengkulu+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Lampung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Lampung+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kepulauan Bangka Belitung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Bangka+Belitung+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "DKI Jakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DKI+Jakarta+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Banten",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Banten+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Jawa Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Barat+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Jawa Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Tengah+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "DI Yogyakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DI+Yogyakarta+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Jawa Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Timur+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Bali",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bali+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Nusa Tenggara Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Barat+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Nusa Tenggara Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Timur+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kalimantan Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Barat+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kalimantan Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Tengah+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kalimantan Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Selatan+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kalimantan Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Timur+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Kalimantan Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Utara+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sulawesi Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Utara+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Gorontalo",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Gorontalo+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sulawesi Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tengah+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sulawesi Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Barat+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sulawesi Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Selatan+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Sulawesi Tenggara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tenggara+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Maluku Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+Utara+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Maluku",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Papua Barat Daya",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+Daya+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Papua Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Papua Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Tengah+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Papua Pegunungan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Pegunungan+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Papua Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Selatan+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      },
+      {
+        "start": "2026-11-20",
+        "end": "2026-11-21",
+        "area": "Papua",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+after%3A2026-11-19+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "failed",
+        "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      }
+    ],
+    "added": 0,
+    "status": "failed",
+    "finished_at": "2026-11-20T14:47:20.869749+07:00",
+    "total_articles": 3748,
+    "failed_queries": 78,
+    "last_success_at": "2026-11-19T14:25:26.523789+07:00"
   }
 ]
