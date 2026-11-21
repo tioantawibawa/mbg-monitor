@@ -1,5 +1,434 @@
 [
   {
+    "id": "a6190f1d2d5644054e2d6d5a",
+    "title": "SPPG Disetop Usai 22 Siswa SMK Kesehatan Malang Keracunan MBG - detikcom",
+    "source": "detikcom",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSGFuV0ozTFl3X1lOTkMyWGo0UnczYm9RbWdzZTNNUk5meEpzS092QnQ1eEpJQ1NyS2pKRkpDYWQwMUtQSGZxUWFzTzFRR0J1TDhzemFGV2hycUhYX3U1S0VJVkowVmhQWHExOU1MUWxzdTl2bjMzSlN2YUliWWFiZHJRZW9qNzRoVi0xQk9OVHBrSF9HVVhSV0NkUGxac2ZrekJSbWRIdERNQdIBrwFBVV95cUxQQWxNWTI0WF9lOEdMYm1GYXVjQjE1dzlnazViX1dVdW1PR0JvR0w2Y3VWQXlyM0tVQnZHYnB2Qy1ZTXBuN04tUmY3cTNpMnJRcW5FYlJpTEdYV0FTVndqaDF5UEVxZXo0cFV6VGV6WlZ2VHlRc3NybVBPNmpyMmlDeDIwcktXdThCOXdWMnU3YWRFQ1d5MkRQSnFZanRxQ2hCd0xmMDdGSHUwN2UtNXlR?oc=5",
+    "published_at": "2026-11-21T11:20:52+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "d700ee3a9c2e44a6017a8177",
+    "title": "Keracunan MBG dan Gugatan Perdata: Apa Dasar Hukumnya? - kumparan.com - kumparan",
+    "source": "kumparan",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUU9oSlRGRE9aTUtwbi1OS203ZjB0ZmRSY2ZlOGtPb2ljUWtjOHVPb3pkZ0Y5dHRUZVk4d2hZMmlPUnYzRVJxRnRKZDFOUzdLUExxa3NzOWdTdWdtUTUtT0Jrc0E0YW9QZkJBVGNXQ2pTQ3lxQkFwMjh4dkFzOThDcFRxR3JueWFLY0o0T0JfX254TG15MkN5NWx6ZVUySmNMMHfSAaoBQVVfeXFMTUItYnNtaFB5TlFPNUYzWnRCMnJnUXE4bHl1M2JYdTg3NmdkVk9vZklWQ1oxRGF5R3NjZlI0bzlXYUs5NjBuZVdHNDRJeUtPenRRYnhlR1dkN1ZyTjlSMXVhNmZuYVE5Q0lRYzFRSWpvVDgwTkRncUdBY2szUlJ5MUwxQ2kxNUlJWGxCd3kyXzZYMldZYlQ4ODdKUjQ2cnI2ZktfQnNQSTVFMUE?oc=5",
+    "published_at": "2026-11-21T08:53:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "315f83af30b3c577791fd3c5",
+    "title": "Foto : Korban Dugaan Keracunan MBG di Malang Bertambah, Satgas Turun Lapangan Halaman 1 - Kompas.com",
+    "source": "Kompas.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjh6N3N3bnhLOU9PVmo2akkzMklxaFM2YWNrUV8xSVJIX1VaV2pxaHFqM1pETnA5YXRqY0xRNnFSZm9XdElQRUJKOURrV2RSbm5XenFwTGdDenE4V19PaG1GaXVSZ0JVV0tVclYzaS1NWW9NUXNFNWRlMVFEUWdHOGp5YzVrSHBsUW9SWTdocTBtVXk5SHp1VEVxc1FBOFZsMkZpUWhTbVUxcjNyRFAteC04bUtDckhoVXA5RlhJb2F3Qzl3YTEyd3NnSQ?oc=5",
+    "published_at": "2026-11-20T22:37:18+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "0051ba49a8ed5008d49229ec",
+    "title": "Enam Siswa Korban Dugaan Keracunan MBG Masih Dirawat - malang-post.com",
+    "source": "malang-post.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkxxRnNiSUZrZ2d4elJoQVJ4eGd2LWVuQS1IZE9sQ1kwWTRNS1Jjc1FBRG54UEtOWUJ1aHVSXzlCUHhoaks0dVdDclVoQjF1eFNBcDZ6d2tVYUZFeEFDbWgzUU9wWTJ3RUZFam1BVF9VZFFkQk9OVmtnSjNSSlozMzFjQWN1MW9lWmE3c2VJTWtoZw?oc=5",
+    "published_at": "2026-11-20T21:16:52+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "bdab0a85e30191fcbbeca4c2",
+    "title": "Dugaan Keracunan MBG Bertambah, Pemkot Malang Bakal Lakukan Penulusuran - Memontum",
+    "source": "Memontum",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU29sbS1GQ1l6STUtOXlfU0YxUWNPckw2Z1RrbkFYMzl4RURsZlJjMnZ6cnB1cE5QZUo5Tnl2WmxzZVRXVW5obkxHYXBXMl9hWWNfV2l2ak5TbmVwRFRHTE1XWlRQZkpvRmhoUlhEcnAyZXdIakdGcU5aSGxTa0xxckQxSkVWZkJTWWV4ZG9iTjd1Zy1FWTVoLWV3Z1BqNGkzMk1OdA?oc=5",
+    "published_at": "2026-11-20T21:07:08+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "2ea8c7b08951fc1617fa81aa",
+    "title": "Dugaan Keracunan MBG dari SPPG Madyopuro 2 Bertambah - Memontum",
+    "source": "Memontum",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNWotRDhIaENQcHFMSHNHX1IzbUhWd1p6bnhhekV2bllBMDZ2bXpnbERoaExiVllDT1ZOTWJXZ2wwcks4RHBiODdnYkZ0R3REN0h5cjRBZGVFX3dMSVhXMlpOOHp2eFhKS0hlWWpFR2lHeDlHYVBmSlBrZTBkUQ?oc=5",
+    "published_at": "2026-11-20T20:51:35+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "c11c48e62866778875b3f1a7",
+    "title": "Korban Dugaan Keracunan MBG di Malang Bertambah, Satgas Turun Lapangan - Kompas.com",
+    "source": "Kompas.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEdGOUVlZk45MG1CYlAxSE1jTDh1NHZudFR2VGw1ZndCRFhGMVVBMTFXcGtkM3dJY1p6SWM3LWZmRjdoZFJSRXItSE9zYVROcURqVUstZDRGN2YtSmJ1WmVoV2NVeHE0dDN0aGNwVHJ1VVFUR1FBNFlvNW42bXA0WWNka3BvNTZSVzF6QjJlMVVLNW5IUnBSaDFjWDlvMkpKYzJ6ZE5ZeTNFRzloM3hCdWgwV3B4aERzb3hBWWZuUV8?oc=5",
+    "published_at": "2026-11-20T20:41:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "7350f5eb5a1adc083c0357ca",
+    "title": "Diduga Keracunan MBG murid TK Dirawat di Rumah Sakit - Head Topics",
+    "source": "Head Topics",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnhGVnpCQ01GLVBoTVA2MWF5bkVPeHdkTGhYMnF6NTJjTmUyUW1iOTlRdEYyakVRZTJzdGJmZUNLSnFmcUN6dHA1WE9tQ1pvZG14MEw2b3BlUTFCYUw1RmVIOV9GTkZ4ZGZmRUtRTE1mUUJ1VG9sWmFwRVRfbFFVVWo3RFFhYlBVWWZTTURTVU5kUFRaeUJz?oc=5",
+    "published_at": "2026-11-20T19:47:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "cb641eeff3c92e616a2d8c31",
+    "title": "Diduga Keracunan MBG murid TK Dirawat di Rumah Sakit - Kompas.tv",
+    "source": "Kompas.tv",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGliMnVlOGRyV3JURjdEMFhYNlNpX2k1M3BlNjl3ZlVpdUxtbjZjX1JpcV9TVHhneXduNzllWUVpZ0FabF91ZVZBRExYbE5ObWdqRDdJeDVTa0lGMVg2Qm1uTHd0SE54ZzdlblAxZi04UzZmbjU2MGpUM1hudnVzQWV1TGFxcXRaRVFNVjNiRUdNcVVX0gGaAUFVX3lxTFBnY3owc1lkQWpySExLTTlIang0YjBTYmpuQkNBeC0zYkh0c0Y0dU41dHo5cy0zcTFaUE5mZTBnN1l2UDY0N2dWV3dLZ0RaWHoxdnNMMnBXbkN2OXFyenMwUWxlNHdOY211d29WR2FSOXVxQXJNSThyWXlSeU90VjAycDlBMC1PWnc4NzZyT0ZrQzdyX2djdFp4Y1E?oc=5",
+    "published_at": "2026-11-20T19:34:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "7cf946f4b961c4ee65dda683",
+    "title": "Mual dan Pusing Setelah Konsumsi MBG, Guru dan Siswa TK Diduga Keracunan - Kompas.tv",
+    "source": "Kompas.tv",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQS1ocjhLaG9yNGpEU0RBSUs1a2pPQm9tdkJHcGV3VTFkc2hGLWFUV2NibGw2NWl2UHlHQnh2SXpESjB6UXlsOTF2TE1vWWUxZUVWWHVEVTQwcGh6eEpsb081NzJ3LVhiTFNIN3QtY2xrYUFrS0VJZ0FfZy1OT2hSdEQ4cElJTlFaRVE0dTUxeFpMQzM3eXI4Y1NVZjJ4dDdZWUtGNlBJZEhpckk3dVHSAbMBQVVfeXFMUFVuWGRjT2xYS08wTXVjRVlRS0drc1p4NVZZQzRHMF85bVlnb1l2cmhHeldVMTRBZnVNYjh5TzB1aE96a2ZRRlFjdjJLcnI1eG9yTmYzNDUyQUhNQ2hoQVBmTG1EZk9EZ3lFem1SX2tsY3pBZXMyaFA2UjYzLU1XRG55NWxQT2hsVG1CX1dpanNaOWVpUGcwaExUdzAzQUpmVFU5dWNmUWUzNUxmSkdDRFBydWc?oc=5",
+    "published_at": "2026-11-20T19:03:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "4c5794d371f660928851f9cb",
+    "title": "Kondisi Siswa SMK Kesehatan Adi Husada Diduga Korban Keracunan MBG Berangsur Membaik, Sampel Makanan Dikirim Ke Labkesda - Ketik",
+    "source": "Ketik",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1hGVGdPdjlxOVZETnhEc1pKREZmcUpXOWxuZ0wzT0lPMWl2OG1ObnV3c3JGa3RfSEZLX3ZCY0h4VnRtSkxHTFFDa09qb0R0UlBKYUluc0ZqVGhZazBBZzN6YnI5VTd1TzI1VVJ2TDM1T05VREZsT1N1c3VRdGx1bVZvQXN6d0xsM1hoWXF4WmNrRGxYT3BPd2lZTzVieVlIaTJhSHZpQ1ZKc3ZUT2FjOEsteUdCTU5VZU9rSk82ZmdXd2Z4bkpZNHhSUzlXb2dhcE9Ja3BfWHFTaTF5ekZmVGtGLVFQZ9IB2AFBVV95cUxPWGhIc21sdW4xaU5VMXBad1RZbmM0RzRxSklISTI1dkdvWFFDbHB1ck5ua0diMjVaQTNsaUR2MnI5dXQ0RDYwcVJVLVUyR1YwakRIYUdTVEttcE9IdGRTdXRjZFJBU1lNYUMwbm5tekJjanU4X2pZS1padHA2dFM0RGpOSkJwWXlHcmFYeHhjYS1Ya1lhRzZNWW1HdVI3d3VjdndHallKeVN2RHFKSklsTGZkd05LRUl3cWp1NXNVRE1nUHo1T2FuR3N5VVA5NXRwbk9BSGQ2S0c?oc=5",
+    "published_at": "2026-11-20T18:32:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "4ef99cb6b8be97ca5a2ed70a",
+    "title": "Satgas MBG Kota Malang tutup SPPG Madyopuro 2 pasca keracunan di SMK Kesehatan Adi Husada - Elshinta",
+    "source": "Elshinta",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTm9SbXBFYVJwV1VEdF9IejZZWE5QWnFsSGtMN2pTTW4ydXVXNWthcExjV1VKZm5ITFdWWVpEYWV0MmpKZVBGQXk0T3hwUEtIZVI5MlZtUlM3bC1KYWVtRXduYjF5Ukl1dExRTmJtYWc4MUo2aFNacW1qcEVQempPUEZLbXdDa1B2SWFRR3I1LTEtQ2NHUjBzVFYyRDF6NU1FUk1JcUdfLXpSS0ZiV2JmVjJVRVVuTjhkV1F6cnJ2TThNaGlRMEVmS2Rqd2FzSS1ncnBjdGUzOEFGV3M?oc=5",
+    "published_at": "2026-11-20T18:05:59+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "398f2eb7850013f6f466aa95",
+    "title": "Antisipasi Keracunan MBG, Dinkes Medan Tambahkan Uji Bakteri Salmonella pada Telur dan Ayam - harianSIB.com",
+    "source": "harianSIB.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF84SGJKY2REdUJkaThwQXNTVTI5VEMyOXM3bmdhR1dCUjlLOXkxTWxYV1ptcS1sLWxxaWRoWkdMSmVnU1ZfSkFNR3pHOHpkYUV4TTEzZFQwd0JrTVFaUGl0TDU3cUxCbEZSQllQdkNTcEJUeXUzUjlLTGhGcXpsZGZ3dEIzd1dZclBPcVJMRHMwZGR2UHZIOXU4VUFDVDRsTzFtV3M2N3lMSElRbWVZd0o4b2ZDdU5RczdxYS1Xa1NZT0VsanlfeXdFREhuOVZCQjVPekxodnLSAdgBQVVfeXFMTkNVR0FMeVlacGIwaXo5SXV4U0dzRWYzb2hWUlp0X21vTnVBX3NldW9YLUdYWGo2VDhrTEZaTUd1NHh2VUwxUHhuU0VmTmFBckJsRFJkSk12SW04UjRBMWRnTUZWZ0tDRXROeTVReW9qVGgxaHJLdEhVVVRmVHVtZ3pja2E3cm5SRXZoWVlFU3cwUGlpUkZPY0MzZmtDd2FRSFhkM3FSX2N2dDRrcHduQXNuUWptSXlvUnYxbVJyMGNsUkNVTU1aYTZfNWhNaUVWQ3FoUkJrSll2?oc=5",
+    "published_at": "2026-11-20T17:17:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "417ce8a43809f30d63df5e2b",
+    "title": "Dugaan Keracunan MBG di Kota Malang Meluas: Selain SMK Adi Husada, Siswa TK Dharma Juga Mengalami Hal Serupaa - Lentera.co",
+    "source": "Lentera.co",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMWtqT3ZrUkhFWkJVZmVOcGFLWVNHNldpZjRkNlNHY3ZkcnJrQ21oazlBTllxQldyazBRRm1kY1ZyZVRONlZRZEhIeXJNbTg1SElDRGlTQW42WUZMNFJtYWN3cUtSMlJOck5FWVNLV3Jia284bDF0QjN2cnFKNXMtd0pCazNKQ1FIZENzOVpBVUtISXdPV1JNbjZ4ZV9aN0JxNG9GX3hnODAxdTJHdWNKSnIyNEpsQlVwVVp1SDF1Sld0Y3ltcl9ObjB5Y3dwTElfa2lkMGhSeEc4N0E?oc=5",
+    "published_at": "2026-11-20T16:20:34+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "1da5122702075b5f1be4737e",
+    "title": "Dinkes Malang Uji Sampel Makanan Usai Puluhan Siswa Diduga Keracunan MBG - Radar Malang",
+    "source": "Radar Malang",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOVgzZVpTWWFEc0ZxQlR2dWpLQjZDdFF1a0RhZU12SVpicHowRjVsRnRkVllwZXRBTnc3NWhlMFRFa3NOMjBBQ0xXWk0xX3VlU0pZTzNiZVhFeGJYNVlYTXRlWld1RjJkMkZXN0lfMDJ4anhvenVMY2Y0bEQ2OHp4dk1IT2ZZZDNfVVRHWk5Ea1BPOFVfRkNSTktlejU1UHh5RHBId1ZURmJFaXFtZF83UDZSZ0xsTjR4VDdBY1JLWDRwUlFsbWNfb3ViWdIB0AFBVV95cUxPMkxKXzZyckViZk9vWnFFVEE1Z3p3VlhwM1d1UlZYOUp2Q2ZsTDZla001cmFwYzJEUE85YjVocl9pbmJoc1hYcHBGV3J0S1puZ2JjMmtmOGFYaVZkRnk3b3ozNndfRlF3M0IyWUd5cmY3ZXRJU0wwanFhOHdlM0lIZ1ZKSW9fc3lsR1V1LUh5WkcwdFI5alBVUzhzVlItbWhnMV9HWDkxZWRlbkdxSXh0MTc2RWtGbTBNT3hMblNfSURVaGluVmhON3ZNamtSQXpF?oc=5",
+    "published_at": "2026-11-20T15:52:24+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "e441a82ac658b487fc90d84e",
+    "title": "Menu MBG TK di Malang Jawa Timur Apa? Diduga Sebabkan Keracunan hingga Anak-Anak Diopname, Viral di Threads! - Jatim Network - Jatim Network",
+    "source": "Jatim Network",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHlrOXJ6Z2VsdlVHdktYaU1xSFE4U290dkc4Z2dYSVB0ZXlCQW9EOVFneHBvSHVoRUZiRVplbzEyNFVyUkFuWlk0NnlOT2RzM25FVWNVbEZIYlhrcEd0TnFLa0lBbWlXbm9DSDlwbEVXcGljMGlzRjBBY2xmVE9iTEVWVEdBaHN5MDZ2M1lWeW40ZmhudnlOeFl3aVZEVU9jNlR1Z2J1VlJ4bFc4YzJmLWNoMElfR08waE1DYmpVaGgybV9wckswYkJnMnEzdEY0QkQwVXAyYktYRDZaV2dDazA0MzgtOWhYZ01OYXdDTdIB9AFBVV95cUxQWXd6UVpPMWlPSlRhMWZ5VWU5cFJ2eC1hYzkzck1lb0tGRXI1SHVxTHpySXlPM0JOWDBLZExzRUdHa3Z4dWI4ZHp0d2VsMkhNMnBuTFBOUGlQMjkzSHljTFVHa1J2MGUybXNLRFNNU0ZMRTZjOUlYSndSdXc5NzNIT211VGdaY0hnd0FSSTFGVk0yanJ5b3pjUTBidzJPRkVTZFdyRmUwZFlyRFNua2V3MzRHakZhQ1kyeDh2QmFDQUZjTVZNUkIxU1JJSWhobnVYTE9pSzk3RHI1Vy0zTWcwSFpvZUNkNjVPZmt6aElIWnFtVjVt?oc=5",
+    "published_at": "2026-11-20T15:37:07+07:00",
+    "province_hint": "Jawa Timur",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "55bc826e6bf634ba8183bb34",
+    "title": "Dugaan Keracunan MBG di Kota Malang Meluas, Kini Anak TK dan Guru Ikut Jadi Korban - TIMES Indonesia",
+    "source": "TIMES Indonesia",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2tpRjFyMXVWemtoQ3dRa3loSkNiaF81WS1TTmxHTWYwMnZvaXh6UTFXZ0IxMmtLS2FrTFUwSjFYcUVzakdaS2lETmhVbHlMeDVGMnZJay1ZQ2d1eDhCdzNiVlRZZklYQWhrNmVrQllOM0dyaTNVLVhTaWNzQldvOXhOWlI3UUJaUW9GMjFCZzdMRnYyY1VZVC1PdkJoZkFCXzZqcV9HLS1VT005bUVoTERNd2x0dFRuVkpaV0FzMmdRdlBWNjRqV3VjZlMxVFU?oc=5",
+    "published_at": "2026-11-20T15:33:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "27013b295925c3a6ba038100",
+    "title": "Ayam Krispi hingga Melon Diuji Lab Usai Dugaan Keracunan MBG di Malang - Kompas.com",
+    "source": "Kompas.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGdINjRmVVFES2QtT2pRTmo1N0pNN1pqX3ZCMGNsZTRCbmY5cWhYbC0xWDloSFpneE9zX3BYMWlkNjhnYnRpYW9Bd1JwaVNiT1R5YllxTGZKSFY3MEdkUXNjc3ZmemJyMS04bWJQSmh2RERaMzFrTGxKOUY3UEtNcXNTU3FNR2RJUUcwcTV2UTRqVTB6TkdOTWNoT09ENm8wQl9GN1NJLWNEZENpTzltdXhaQThlZFNUX0F4c01NYUVIQQ?oc=5",
+    "published_at": "2026-11-20T14:42:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "7a124ed24038a1b95fae9f48",
+    "title": "Dugaan Keracunan MBG Meluas, Siswa TK Dharma Bakti Pertiwi Juga Dilarikan ke Rumah Sakit - Malang Posco Media",
+    "source": "Malang Posco Media",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWlMd3djaWdSQmFrVGRUdjk4RExkdGR0akEyRnFfeDJyMlhReDVDMHlBRWpDcEs4WGxOTFpNdm13TFVsdm9nMzN0ZXB2QkdmTU52amtxSWwxZVBmQksyUnNVUDF6NDdERm1TaW9fUndVOWRiVUZVU1IzQnpZVEpLSFgwajFJV3lhMnhNd1l5Q1dMOGpNYVA5RFEzSkZTUG5SZGZvWmN2Wk4yVVpXcnlNMm1Qa2ZPNGM?oc=5",
+    "published_at": "2026-11-20T14:35:47+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "86b5cba38f33c2cac15728d5",
+    "title": "SPPG di Kota Malang sempat terhenti selama 20 hari akibat puluhan siswanya keracunan MBG - https://www.rakyatpos.id/",
+    "source": "https://www.rakyatpos.id/",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlhnZHRJbVR4VDQxb2xMd2s1NFBiOGFfdV9aRU1JZms4M09SYWFtWEh3Tk1xV0ZNakRqMXdiNEFfOVNGVF9oVHBrVGpuQlVVT1d2Mk5uYjV0TTBYbEVvZHRVMzd2R1pFeHN4TnhsWGVsRVVXMEtwU2JmV19jbE81eWFHMms1ZzYyRlRWMF9WRE5CdXZia3JtSzdKOGdVMmp3Q3JkeWNEUmtBbmlVSzMwMkJ5S0xrNVJFQ1ZGVEhBSlUxZHlB?oc=5",
+    "published_at": "2026-11-20T14:30:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "68d796360e46c755e23701e3",
+    "title": "SPPG di Kota Malang Disetop 20 Hari Imbas Puluhan Siswa Keracunan MBG - TIMES Network AI",
+    "source": "TIMES Network AI",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGNwZ1VMcU9BRzRKQ3ViWmFVVmRLcE9rRnhNdC1EVm9FQXQ2RXVBWFJEMmh4NW5sRk13Y1FIa1BERjRLbkpLbGd6SUJYa0R5WUNPR1NTS0JoUVh3LWNka1ZCcG9EX1pyYTB0ZGpiQTRXeUVPSnFITVdWNE1MUG9KeTZDMFVxUFRhQmNOWkczVk9Fa0k?oc=5",
+    "published_at": "2026-11-20T14:00:06+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "d4db7c3e03c11e257c7e2a99",
+    "title": "Sejumlah Siswa TK Dharma Bakti Pertiwi Malang Alami Gejala Keracunan Usai Santap MBG - kabarbaik.co",
+    "source": "kabarbaik.co",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGJjemhid2VhaGxUYlM2OTJkVFl1b0xweEZxZkdYcFFkZkJyVXpCZFBXS2RIdmFGWllTcFBSeUJwb0J1N2tkSWVwNWt5NnR0OUFOaG9xSjJyVTRxNE11V0J6QTVlbndCMG1heTdZNTJ6dWdPY0VYSjhvREYza3B1S2FVYUlsWXVzcGlheGVYcld2eFl4bl9QWDh3djJTN3hyNmoyNThvelliQQ?oc=5",
+    "published_at": "2026-11-20T13:38:04+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "5714bcebade4e6b7dd905fdd",
+    "title": "Soal Keracunan MBG Siswa SMK Adi Husada, Dewan Minta Pihak Terkait Tak Saling Lempar Tanggung Jawab - MalangTIMES",
+    "source": "MalangTIMES",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ212czFSVV9JMExvc05FdE93bFZaRnQ5SFhKaDZySTloYW03MV9Udll4N0JGb1VaSnNUeERvZlV6dExhNDU2RnZMZ1d0WldWNWthMUQ0MllWTDU3WDMzbm1Pcm9Tbjhya2lYOUhuSm1QYUJJVzlqcXNuRUVvOUVuYWNsVlI1OGZzcl9pTWNweDBweDFXRGhRSnpyaWhENEFDTENabjRVWGZPSEdFcjRJWm9ZSEFWdk04VklDck03WUNILU9uMHJKakI3RU5BX3gtRFVQV09XZTZuSDVKYmZscnJzckJ6c2JValE?oc=5",
+    "published_at": "2026-11-20T12:55:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "6c1135ed7d92be239e51d7b1",
+    "title": "Soal Keracunan MBG Siswa SMK Adi Husada, Dewan Minta Pihak Terkait Tak Saling Lempar Tanggung Jawab - Jatim TIMES",
+    "source": "Jatim TIMES",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQXZzWGEwMHBGRzB0WUtNNHdCa08ydHJGWFNiNXppSFE0ellMcXNkRkFqcFZjak9fLTNMUDN6NEV4dVMxQXVYRTVNUG5la1NlcVdMd2RIMVhCbW9ZTDZ3QkxHNG5LeGUwWU5LclV4VjhNR3lhSkFxVGdFZUNsWG5HWW9fLXl0aHpYMkdoOEUtQXBwelRac3lMU2pndFRWLXcxX0dCdUpsNXc2ZkxodVR1V3R4V29obUszV202QnZZZWZXNThCSVBUWjgxWHIxUzBaSjR4VFBvNzRqSHBBZTBHbW9ZT09qUUhx?oc=5",
+    "published_at": "2026-11-20T12:55:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "19251130cc51c4185447a955",
+    "title": "SPPG di Kota Malang Disetop 20 Hari Imbas Puluhan Siswa Keracunan MBG - TIMES Indonesia",
+    "source": "TIMES Indonesia",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZllMZ1d2U2pJZi1FYVFlbW5yNHNiUFR0dEFUNjlsRFcxU0dBUHgwaElpRF8zRVdIeTVxbFBZTWtYUkhsY0k1ckZsb1lYamQ4OVh4LVp4NHk0SWxlTEdCR0R2RGlVeGRSb0lybGhRWDl6V0xIdGRPaE05ZXN4R0Z1UWpFMlJvcUZHSDMwU1RieURoeURNNm0ySEFka2pESmhaNHdvRVotSG55Qkh0cC0xQzl6aDNTZU5OMmVwcklHRQ?oc=5",
+    "published_at": "2026-11-20T12:49:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "2936d6165b36bbcb10bfae3f",
+    "title": "Dugaan Keracunan MBG di Kota Malang Meluas, Siswa TK Dharma Bakti Pertiwi Turut Jalani Rawat Inap - Pikiran Rakyat Jatim",
+    "source": "Pikiran Rakyat Jatim",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYUZqX2N4Wm1CNXVjMDdvbjhLQ2xqRFVXek01Ym5hMGpzdnZkcWFWMHpLak5Kdm5QaTExbzQ5bmh4cWpXQmVpV2EwOC1EYTc5WUYzZUlBZ3NDclBjZFAwVHp1cGFDZERJM0UwY0t0MWtjS2xjQW9pMFRCZWFSQkZLSzVwN0JkcFJ0VUo2Y0hyeFJaZjZjUEY3X0xFSEtKbzE1N1hFdEhTTC1RcUlHcVlPZWxqbk5VYXpaaC1XYU5Da0V0TU9JQnBuX1Fra2d1dEVRZzFfY1BaakI0SklLNzlZNGRyeGp0SF9wZWlZ?oc=5",
+    "published_at": "2026-11-20T11:30:18+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "46d0d1f6fc9d786290f3ced7",
+    "title": "Dugaan Keracunan MBG di Kota Malang, Siswa TK Muntah-Muntah Usai Santap Menu Ayam Krispi - Zonanusantara.com",
+    "source": "Zonanusantara.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2hkNVhGb01DTFdYUWdLY1BlQ2hIY0FWSlB6Q3FwaS1Yal8xblVlaTJmM2VBanEzamhYbWZXUmNJSERRZXYtV253cFZvX053Q2p5Z2hzVWtSd212bm02aWFSeFNxN1JXb3dzMm1OeGtBcmwyQ05KR3FzUTVVMXd2bVYtWGRSc3YtczR3VXhkd3l0cFgtZU1kNkNYbjJQaU44a3Vyc2xsdUdXTU1Sa3A2VVlaZkE?oc=5",
+    "published_at": "2026-11-20T11:14:22+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "4253f5ad65999c031f857a23",
+    "title": "Usai Siswa SMK Adi Husada, Kini Siswa TK di Malang Diduga Keracunan MBG - Jatim TIMES",
+    "source": "Jatim TIMES",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVFNNjFrYncxc3BvdWFjd2loVTAzUVlkeFpHVGp1OTJkUnQwaV9LUFFJU2VwSHZSREFjUGNMcnltakE5X1YxVVRYZ2lHODVOWVpBbTdQTVE2ck8ta1FkYmZBTlZNT1Q1b2lmMGxaMFg1cEJSWHpUVzVqTHZCQ05pRmh4U1hFLW5KYXd6c0gtUTBINGRHaGwxSEkzTHNHeU9QUVRFaS1wT1dvMkdpdkNpaXN5cTZjUUVJalhNTk11MVk0LUk?oc=5",
+    "published_at": "2026-11-20T10:23:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "7905ca9a96b4aba9fc9cc719",
+    "title": "Usai Siswa SMK Adi Husada, Kini Siswa TK di Malang Diduga Keracunan MBG - MalangTIMES",
+    "source": "MalangTIMES",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc094VDEyZ284TnZhZk1vRlBBUlhFelYwdlphYnNZbWowbVRMbWJvN0dPUnl2VEppRHB2ZjJPT1B6NXZUOUFuSnE2S3QxOGFPU2ZXQ2tTYlc4SzhnZWpnRV9QXzBOQXltcG9DcTBFVWt0SE0yam9ZaVh1S3JCZW1yN1hkWi1fUlk3eUE3bkpiNUR6MWNMbjFOWUYzUkwyZjFOTm40dXJ3ZlBvdTJwWW1mbXozSnZBMWoyay1OV0ZzTGc2N1p2?oc=5",
+    "published_at": "2026-11-20T10:23:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "11c4982c24cd1a077707f53c",
+    "title": "MBG: Antara Niat Baik, Ancaman Keracunan, dan Amanah Mengelola Uang Rakyat Halaman 1 - Kompasiana.com",
+    "source": "Kompasiana.com",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWRwVkt2X2pya2FSbFVYSHVwMVkySmdCU1JyeUpuR1JXc2k3T2tHVHVNY3NQVy13Qy1Ea1dVRzlfbGliRlctZXdIYWVQMDhDM21QR2R6QzU5U3FiUUxsRnZhZVhxRzBTMnB2TUVFeTZPcGwtdnkzN1pYNjRnTC1SUnZkS1lJM3c4Rk96bmdSTjh1NnNUZjMyT2VGVHFkYWdqdGtNSVo4ZTh0eHR4MVJmYURwZlZNTTB4NTNkVi1uQVllNGxqNEJGVDVCOUVtdDUwV2ptMVp2dDdrT1k?oc=5",
+    "published_at": "2026-11-19T23:26:17+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "27351c76166d519458f340bb",
+    "title": "Operasional SPPG Madyopuro 2 Dihentikan Sementara, Buntut Siswa SMK Adi Husada Diduga Keracunan MBG - Malang Posco Media",
+    "source": "Malang Posco Media",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQem8zYW1FVVBTd0llbnhrazd0MDVmUFJRY3QzTVRQWjV2ME8tNVdfUXpRaXVIOFFRMW96UWpKa3FLYWpPOVI4bDZyREJ0b192R2gyQU1Va1lLczFYbUIzVW1JNXNhUFdYYzZWREpHTWMzOERDc29ZMkJkSkRqcTU0Mk56bXNVS0FiRTdua2tFV3RTUElYYURZTnY3ZFFIMjJHcjV1SjJ5N0NIN2tYYWpvdnFqS0ZVRVpHRGF3UXlvZjBVSms1SFE?oc=5",
+    "published_at": "2026-11-19T22:55:34+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "3a3a4366c7a6a7ef34112d54",
+    "title": "Tak Hanya SMK Adi Husada, Orang Tua Siswa TK Dharma Bakti Juga Keluhkan Dugaan Keracunan MBG - Radar Malang",
+    "source": "Radar Malang",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSmJBN0R4bWh1V1ZiZG5mbjFjcDE2WHVSMmtPb0NtZ1FzUlBTV3JaLU5mcjh4NXN5bGJUeFNrd3BybkI4b19sVFZlbzZLT1AzaHl2R0RBbzY1LW1qck9DUWlwd2xja29UWUpnWU9YRGVjN1FlUjZoRFMxaWJhQWFsaWthNkt3dVVVQ3J1aXFwQzFRTjNKTHdLQ19xY0hNMGJkWVExVUZDd2JwdFV4Wk9HQUR5YVYwX1p5RzJEVTJwVUtVLVNIVEozaHE0SzFOM0VUVlNSdlFHeTM4UTNnSEJFUUhsdkrSAeoBQVVfeXFMTkNKemJTbkZBNkhoRmI1WkpoTWs3QjZjLTZUcXE3cDJFZTBxTTNBWGlCR0QzTG5NVzkyLWNKWGZpUGR4MzF6OXB6SnRnU0hqNFdFNzhhYWZ2YVNvMGp5Ykt0TWpBdTBYOUZKaGtCa3I1Ri1iTHhCTklFY1RnN0ZNdUVDZ0hHa2tEdEJraUY4eGxjdG50dko0NzljalBSZE52UGxGZmtFeFg4VlZ3U1FmUXZRMjRZb1ZDZGVIUVFVQjlNTmwwMVVQbjdFRnRsUl9OS0NkQnFTenY4RFVGTlY3RHdpbGNDY2djR3p3?oc=5",
+    "published_at": "2026-11-19T21:00:23+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "65db8165690451dd7ab4a235",
+    "title": "22 Siswa SMK Kesehatan Adi Husada Malang Diduga Keracunan Usai Santap Menu MBG - Arah Pantura",
+    "source": "Arah Pantura",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHBCMzIwelBEalpPbW5TRHQ1WjJFOWxKRklVekhtZ3hhNDJJLWtQenVBUzNEM1NZX3FNMTd1N0FrdDFmb2VHUDlFZENlYUFwa2k4U0o4SGNvUGs2OG1aM2gxRTFxLW9VVEZEaUVOX2lMdmt6a2FBeVhHcW0zN2VVUWhnbUJxTkxmNG1LVG81WTZWYWpJLXk2R3RSdlRfOGVhMGZ1ag?oc=5",
+    "published_at": "2026-11-19T20:32:59+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "ae4914d6dae4713e9d5ba704",
+    "title": "22 Siswa Keracunan Usai Santap MBG, Pemkot Malang Hentikan Operasional SPPG - Pikiran Rakyat Jatim",
+    "source": "Pikiran Rakyat Jatim",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGVMMGx6dnhrNmR5dF8zTUtHNXNEWnlvTF95RlVHMUk4akRfeWplY0hjZnE2a3N1ckVSRm9sakk2a0dXSUtVSFllanVPOU9FLXAycmRjbUZ0U2ZBWTBmQjVWNzBZbmdHNXZEQ1hSV053R2VjeFNnOWk2T0RydGloRzdTc0xXRDRod2R1eTlJelpEYmVBeUwwN2d6azc3T0dCY3l5bk11ZkJMSzZIdndfWWtuTE4xeUpfUk1abVprSUl2b3F3SkVGOWZ2UXoyZw?oc=5",
+    "published_at": "2026-11-19T20:08:23+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "adf3cd08f6b55d6a8e496e24",
+    "title": "Siswa Keracunan MBG, SPPG Madyopuro Malang Cuma Disuspend 20 Hari - rayatimes.id",
+    "source": "rayatimes.id",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTg4VDJObHhVX1pIYVhVY0ZOVHAyRFZFMUZlX3EzWFJkdS1UTzdCd1RyRjRsaGFFNmI0V0QxcDFoN0lJaHRzODZjTlM3LTZIdTJQTzJ1eS1WcHdvV2NUTWc4cmNBelNSZVAwellXU1BKR0QtMnJEc0Z2MFlWWWpIR2NSNm4wN21JQU5Qbk5DVW5WSEVNNFFIZ0hEbw?oc=5",
+    "published_at": "2026-11-19T20:00:03+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "bdaf8a1d9adb6bb93e7ba0d0",
+    "title": "Diduga Sebabkan Puluhan Siswa SMK dan Murid TK Keracunan, Dapur MBG di Malang Dihentikan 20 Hari - Zonanusantara.com",
+    "source": "Zonanusantara.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYm1SQ1Q1OEoyd3dQR0ZqYk93RkFsWUMxZ0IwRUhsbDZMUFFWNTJHS05haU4tN2lsSWctZ2FENUtadGFqb3pmV1hwV0FXelZvZ01qYmtyZzBlUldwcHJJalpNaHpEMGFkUnMydTlDRWxnbEJXS3RVbjFSNks5Rk94QmVMRjZEbE9Sci10UlhVNkpKbDVqLXdsenl4VHNUWDlLWXQwcVdVU1FjNXNHX3dGR3hRaVJXbllDWDQwLUczNA?oc=5",
+    "published_at": "2026-11-19T19:27:35+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "90613dce34711d30e5c17e05",
+    "title": "Keracunan Diduga Disebabkan MBG, Dewan Pertanyakan Pengawasan Pemkot Malang - Radar Malang",
+    "source": "Radar Malang",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZTRFZHNVX1dZaFcxUEVqMXloX09zMnNIRVV3REZsLTF3Q24xdFNvU2ZZak83aGRzYzZwZDZsQnZqUHFZWGdBYko3SUhpT04wM0dBMDRsTVhwYmZsRll5ZnB1Y0Vpb2xaVUtNcGNwUFBjbVBBMnprYmtIMHZqTEpRNGl6NGFGNmhYb2hfS3JxVGlVSVBYdTN1MmlhT3pNVGEwMFMwNGIxV2lYQkduYVFFeDBoRllwTHRJdl9XOHdScEZsMVNaZXdXZFRRZ0tSd9IB0wFBVV95cUxPYmxNZUMtdHpTYTNYVkZwNFlaZWloT0lFOHJWOXZsRjIxa1hnbFowNlFlaUJtMW9vYTFhZTRmdUdaUF9Hb1VtQTNyV0VJZE1WWk5uUG5oa1V2R1FiMDVITjJpQmxTdmZVUGJOSWhBRWtrbnN6MUYzeGZWZE1teDZFUEFYUnNoR0hIVnZEM3l0UnN0bkdVRGpfdnRoR0VxM3RESjlzTjdvdnFJRkEycTRESmhKTk5oRDNTb2tGNUdRem14ZFQwNHc3YnJuUW1KM1FSNENv?oc=5",
+    "published_at": "2026-11-19T17:49:51+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "36fd3d6fa5519894bf1188bd",
+    "title": "Setelah Dugaan Siswa Keracunan MBG, Sekolah Berlakukan Pembelajaran Daring - Kompas.tv",
+    "source": "Kompas.tv",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWFINV8yRFU2MDVzUWFab3lpWTJIVUFvaXExWF85YzNuSVFvNjlaZkZlbDRweG4ybmIwT2Z6Ylp6QVBtaDNmY1p3U3EzZFZUQVltRzNCQjJaLVlhcEpBUjk1Qk1Od1doWjNjR25zbV9lNU1JU2NSWThrYUxFXzdBVTRrMmFNUmtSVDJTSG5lMmlOZElBUjFWRnVQRDgwWFU5ZTJhOXNyZUN5TURzMTJ1RNIBtgFBVV95cUxPNFAwZHVnWjB1RGp6WEx5ekRJbTJsRFVuQm9pRGZqRUlORW54ZVVGSHBBcTNMQkU0eDFHQnFkQUVxWEdMY3hvTVBzYzF0LVhNdVF6d3VUdjF2QTR0OXdhampQdFNGbGRqaENIYjlQT0xSTUFrdFBvcXdUYkdnZld2NS03QUluYmhhdGE4b1BvRFVaNXhRQ1dqS253MzZxTFRpS1dRZldySjlPTmdxcFAtNnkxT0dBQQ?oc=5",
+    "published_at": "2026-11-19T17:23:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "40cf8ce4ae871b87bed987e7",
+    "title": "Pemkot Malang Suspend SPPG Madyopuro 2 seusai 22 Siswa SMK Kesehatan Adi Husada Diduga Keracunan MBG - Radar Malang",
+    "source": "Radar Malang",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSjNGNVFWRm5YRmw3Qlo1Z1J6YjloRmtRUHZCc0p5bXVzQU52d18xTzZ2QUlqQmlqTGpSN0txdWVtSFBkcnlUQkFKekVnSXdXY3BNaDRMLUQwUF82SVZNU1lZSGlGdjRhWXNEajgyaHNKeHdWNWIzMnJ2S04yem9WbjFFeVlteVZ5aWpCNVRwNDhfeDA1WWNlTmJGc1J4MzlFWnMxUk53eERBYVh4d3JjTG90YWo0X2NzQ2l5THdlcFc1TEVIM3JhZHhxOVJucjNSekpiSlRuUnhGbDRPanI2UENveXUydFpTWWZiVkpIQVPSAfYBQVVfeXFMUGFKU0h0U25Sam9hSkpPVkEzZlE4NGRKd1RXTU4temdFeTZGaHhsZW9hWFo4bGtvQ21RU1d1MUloMWNVeFNDN1JJekxiZkQ0QTVqZ0c0SzdqcXNYcDhWbG95YTVzbS0zTmRuUGRCUVNIeTZJTVdFRVluaUgzczhHNVhIV2p4aTBJTWRrZlNRNnhhLVQwTlFhMHJtSm9RcGdmMXhIYXluY2RYcXpTbXhiaXZleHR1Y0xpMUc0TVEwT04tVXdqSVNyN0RSYmF0aW11VnNULWd0U3hvV0Y1bTN6UTdFNms3QXJRbHpoNjhaZVhLS1VpUkZB?oc=5",
+    "published_at": "2026-11-19T15:50:16+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
     "id": "08a3d1490fe8d2e91fb3435a",
     "title": "Kasus Keracunan Makan Bergizi Gratis Terhadap Pelajar Di Kampung Depapre Halaman 1 - Kompasiana.com",
     "source": "Kompasiana.com",
@@ -7,7 +436,7 @@
     "published_at": "2026-11-19T14:17:24+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -18,7 +447,7 @@
     "published_at": "2026-11-19T14:11:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -29,7 +458,7 @@
     "published_at": "2026-11-19T13:36:04+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -40,7 +469,7 @@
     "published_at": "2026-11-19T12:38:28+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -51,7 +480,7 @@
     "published_at": "2026-11-19T12:30:19+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -62,7 +491,7 @@
     "published_at": "2026-11-19T12:23:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -73,7 +502,18 @@
     "published_at": "2026-11-19T12:20:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "6e7f6a1e1a6c09f35fa8b8c4",
+    "title": "MBG Dikritik Sandiaga Uno, BGN Catat 52.689 UMKM Terlibat, Dugaan Keracunan Jadi Evaluasi - Poros Jakarta - Poros Jakarta",
+    "source": "Poros Jakarta",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1BULXVUSnpDZ1FZTi1CMmxWSlVaRXZ6Q2tEM3JGNmJMdWVfNnlqcmk2T1dVVFJyMm1QQmhtRC1vMXdlRnVNNlBJd1JubklBd0s0NlRnamljWFBGUEpYVFJ3bElqZjVGQjRsVUNvM3VpcWg3b0FDU1M5aVViWnQwcThSeUtWd19FeFAtMGtoNWwteUpUUkdJbW1IMmtTMm9ZbFJYVTNIbFBvOU5iRzhyaHdtUmNjSjFQWGVjYkpNTURrbUh4ZzBiYU4ybnZqcmpt0gHWAUFVX3lxTE1keTBLdXpjTS1fa2szNThmNk9zMnQyQ1pNNjFWQ0p0bTl6QVRCSmVCTWhxMVBXVENoamVMTURmT2dlMUhZcHp1SGFuWDZMWGJQOUN1bHE0QTZ2WWxnZU5KT3RJX2xnU1BURHJFTnV3QVpGYWhVLWJlN0ZRRmRGMnVNcXR1ek10V25fTHA1WE94bC00NFF2Sm1UcGk1YUpDV1AwczRsenpqRnRDMkpjQlhkendhTWowbjlxRFAtbGROSnFOa0FqZEswMDhCakIyRGNmclpJMkE?oc=5",
+    "published_at": "2026-11-19T11:45:00+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -84,7 +524,7 @@
     "published_at": "2026-11-19T11:36:54+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -95,7 +535,7 @@
     "published_at": "2026-11-19T11:25:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -106,7 +546,7 @@
     "published_at": "2026-11-19T10:50:49+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -117,7 +557,7 @@
     "published_at": "2026-11-19T10:45:45+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -128,7 +568,7 @@
     "published_at": "2026-11-19T10:44:41+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -139,7 +579,7 @@
     "published_at": "2026-11-19T09:35:22+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -150,7 +590,7 @@
     "published_at": "2026-11-19T08:00:39+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -161,7 +601,7 @@
     "published_at": "2026-11-19T07:10:55+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -183,7 +623,7 @@
     "published_at": "2026-11-18T22:10:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -194,7 +634,7 @@
     "published_at": "2026-11-18T21:20:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -205,7 +645,7 @@
     "published_at": "2026-11-18T21:07:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -216,7 +656,18 @@
     "published_at": "2026-11-18T20:42:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "a7bab596fec5a271e336f314",
+    "title": "Sejumlah Siswa SMK Kesehatan Adi Husada Kota Malang Diduga Mengalami Keracunan MBG, Kepala SPPG Kedungkandang Madyopuro 2 Justru Tak Ada di Kantor - Rubic News - Rubic News",
+    "source": "Rubic News",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcnVMWS1ueFNHQm5URGtVQUtmSU1jaHY1cVRPMk43UXkzUEVuOHV2aEVuQUZzbTc5UHF5emlvS1M5cER0NXdsRXJqSm5ETFRmaVJqaVJ1VXc1VHJiU2hWLWVsV3M2T1Q4Uks0VE83QWNqQU5wa0U5MERvZWV6N0RzVG1NWWxTRFhQR21NNjBZNzdqbmJFTVdfQzRjTmhhWkRGcFpRVG1ORXN2YzZEMmY0ZUlrUWJFWXczMEp5VXVYVHppTTFQc0VJMWlKNlVvU2pUdU10THdSNGlHTXZZUXhqcGF2NTU2dG1ySkp0WDExeFIzR1Y4M2Z4d3M1ZWtUeHl1LW9FWENaRzlXZUp1cFdDNTJkdjd2SjjSAZwCQVVfeXFMT0ltRWU3dVpDQ0JNRHN0alNpc2lESnRfTGNRc0dlZGZtOFBtNUtyQUJ3bTVUQW5ZTTVQZ1FIT1ZmaUFoSVdETnZmRWJlZGFjczBzeVFTdmYwZEFRNnF3LTNTU1JwbGx4cW5wYjNMQmtMa3BtdU9lbmp6U0QxUGdKVFhoZkxVZFRTRWduU1ZmSWFoVkRlM3V2cmUwWmd5ZjJiUVFDVlVEWE1WbFloZlBqVmp4aGdoMmN6S0oxNmt3OFp4STFyV1BfVHdTb195bWJnYlIwenlJNU5vcnd3WnZ5TEhCbm1aLVVyUTNlV1Rhb0x1YlNMRVlOUFV5dUVULVVRc004ZzR1eHExeWpGZlNFOXpGbFFGamY2TXJuMzk?oc=5",
+    "published_at": "2026-11-18T20:40:31+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -227,7 +678,7 @@
     "published_at": "2026-11-18T20:25:45+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -238,7 +689,7 @@
     "published_at": "2026-11-18T20:22:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -249,7 +700,7 @@
     "published_at": "2026-11-18T20:02:23+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -260,7 +711,7 @@
     "published_at": "2026-11-18T18:57:06+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -271,7 +722,18 @@
     "published_at": "2026-11-18T18:35:49+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "0a9168255db64cc9890fc3f3",
+    "title": "607 Siswa Keracunan MBG di Pituruh Purworejo Diduga dari Olahan Daging Ayam - Koranjuri.com",
+    "source": "Koranjuri.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnRKU2Y0Uk45dFdobXcxQU10QWhJbGVZV1ZhaVZjM3B6WFdZcWNMNWFzYWZyR2poUEhkVGJqaFlRT2k5SXFLWEg2TkpnSk5BcXhkcTJ1UVBISnVNR0xWTEhuRnlDYmJPV1hFOXR5Tmw5eU9CcTQ0ZnZKeFdiWFdJYmNoSGVjWWIyaks0WTMzOHhGQnZqN0VWRi1QdjExQ1HSAaQBQVVfeXFMTUZlVFRvTHBHeFIwNjZaSFJyZzZ1THdaQzBERWxlYnRYdnh3XzNvXzREMEgtaWltcTFLRlptb2xoNGV2N3NGUm1jZTJTYXdZVXU1WnN2U2lsZDE1SEwzeDF4WVl1VTdxV1NXLVFxQXJSbHp1aFdLSHVHbEV1TFgtelZGUlZsdHhaYUg1UXhxWFdram0zWlBycXFUbDNkUnQyUWJzdFA?oc=5",
+    "published_at": "2026-11-18T18:34:57+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -282,7 +744,7 @@
     "published_at": "2026-11-18T18:15:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -293,7 +755,7 @@
     "published_at": "2026-11-18T17:50:15+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -304,7 +766,7 @@
     "published_at": "2026-11-18T17:14:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -315,7 +777,7 @@
     "published_at": "2026-11-18T16:48:56+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -326,7 +788,7 @@
     "published_at": "2026-11-18T16:43:48+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -348,7 +810,7 @@
     "published_at": "2026-11-18T16:03:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -359,7 +821,7 @@
     "published_at": "2026-11-18T15:59:33+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -370,7 +832,7 @@
     "published_at": "2026-11-18T15:50:09+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -381,7 +843,7 @@
     "published_at": "2026-11-18T15:36:50+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -392,7 +854,7 @@
     "published_at": "2026-11-18T15:36:11+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -403,7 +865,7 @@
     "published_at": "2026-11-18T15:31:58+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -414,7 +876,7 @@
     "published_at": "2026-11-18T15:29:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -436,7 +898,7 @@
     "published_at": "2026-11-18T15:27:41+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -447,7 +909,7 @@
     "published_at": "2026-11-18T15:22:36+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -458,7 +920,7 @@
     "published_at": "2026-11-18T15:21:38+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -469,7 +931,7 @@
     "published_at": "2026-11-18T15:15:47+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -480,7 +942,7 @@
     "published_at": "2026-11-18T15:15:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -491,7 +953,18 @@
     "published_at": "2026-11-18T14:57:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
+    "review_status": "Belum ditinjau"
+  },
+  {
+    "id": "62f76d8e7a708cc79eda69d0",
+    "title": "607 Siswa di Pituruh Purworejo Alami Diare, Dugaan Keracunan MBG Diselidiki - Indonesians.id - Indonesians.id",
+    "source": "Indonesians.id",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVFSR2k1alVjYlB2ZGlPc1R1Y2RLRWVnbG11elMxOTgwSXR0YWRhQkpSMXAtTW1KZVJOU0ZaandmOFdzWER1bWJpZ3EzQWdVaWNRekJiUUl3cHBnSGJmUDBjLWR3NzBjcmJ6cW0wWG5MbWFHckFWS05LenRLbkRtMWs5SlV0N3NOV1dqek1xYXJFTHVWVGRvVWY4TXQ4Vy0yX0phdHdqU2I5UTJFdnlzUldMek8tb3Q3TVBBdzh6WWV2emPSAcgBQVVfeXFMT0lSQVN3LUJyNmhzRERMaVNMSlJ0Q3ozcEk4TGJFS0p4ZnJvbTNpNDk5YmtaSlJrNzl4eFhueHhpZHVPUi1tUGh3aWNYNS1zWEJMTkNXVDloYzNXYml6LWM3Z09ac0ItLVJOblhWSTM4eGdYUHNwSjRwR28zdFQwM084S3R4OFNLOG5Ta0hXanJpTXlMVkNMd29RbW14bnVfNnI5TzV0MW5IUjA4R2xVVDluWnlJT0JRUl9NWXlfNXRTM2tzWkZDMjI?oc=5",
+    "published_at": "2026-11-18T14:50:30+07:00",
+    "province_hint": "Belum diketahui",
+    "first_seen": "2026-11-21T14:05:23.063977+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -502,7 +975,7 @@
     "published_at": "2026-11-18T14:30:24+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -513,7 +986,7 @@
     "published_at": "2026-11-18T14:29:45+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -524,7 +997,7 @@
     "published_at": "2026-11-18T14:25:49+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -535,7 +1008,7 @@
     "published_at": "2026-11-18T14:16:22+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -546,7 +1019,7 @@
     "published_at": "2026-11-18T14:07:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -557,7 +1030,7 @@
     "published_at": "2026-11-18T14:00:02+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -568,7 +1041,7 @@
     "published_at": "2026-11-18T14:00:02+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -579,7 +1052,7 @@
     "published_at": "2026-11-18T14:00:02+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -590,7 +1063,7 @@
     "published_at": "2026-11-18T13:55:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -601,7 +1074,7 @@
     "published_at": "2026-11-18T13:51:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -612,7 +1085,7 @@
     "published_at": "2026-11-18T13:37:47+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -623,7 +1096,7 @@
     "published_at": "2026-11-18T13:17:38+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -634,7 +1107,7 @@
     "published_at": "2026-11-18T13:15:11+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -645,7 +1118,7 @@
     "published_at": "2026-11-18T13:12:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -667,7 +1140,7 @@
     "published_at": "2026-11-18T13:03:17+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -678,7 +1151,7 @@
     "published_at": "2026-11-18T12:44:59+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -689,7 +1162,7 @@
     "published_at": "2026-11-18T12:44:53+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -700,7 +1173,7 @@
     "published_at": "2026-11-18T12:44:22+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -711,7 +1184,7 @@
     "published_at": "2026-11-18T12:29:13+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -722,7 +1195,7 @@
     "published_at": "2026-11-18T12:25:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -733,7 +1206,7 @@
     "published_at": "2026-11-18T12:22:43+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -744,7 +1217,7 @@
     "published_at": "2026-11-18T12:17:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -766,7 +1239,7 @@
     "published_at": "2026-11-18T12:14:29+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -777,7 +1250,7 @@
     "published_at": "2026-11-18T12:13:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -788,7 +1261,7 @@
     "published_at": "2026-11-18T12:00:44+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -799,7 +1272,7 @@
     "published_at": "2026-11-18T11:55:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -810,7 +1283,7 @@
     "published_at": "2026-11-18T11:33:24+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -821,7 +1294,7 @@
     "published_at": "2026-11-18T11:28:36+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -832,7 +1305,7 @@
     "published_at": "2026-11-18T11:27:24+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -843,7 +1316,7 @@
     "published_at": "2026-11-18T11:25:01+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -854,7 +1327,7 @@
     "published_at": "2026-11-18T11:14:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -876,7 +1349,7 @@
     "published_at": "2026-11-18T10:21:36+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -887,7 +1360,7 @@
     "published_at": "2026-11-18T10:19:59+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-19T14:24:18.221175+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -898,7 +1371,7 @@
     "published_at": "2026-11-18T10:15:31+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -909,7 +1382,7 @@
     "published_at": "2026-11-17T21:23:01+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-18T14:26:48.640396+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -920,7 +1393,7 @@
     "published_at": "2026-11-17T20:20:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -931,7 +1404,7 @@
     "published_at": "2026-11-17T19:09:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -953,7 +1426,7 @@
     "published_at": "2026-11-17T15:50:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -975,7 +1448,7 @@
     "published_at": "2026-11-17T14:08:40+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -986,7 +1459,7 @@
     "published_at": "2026-11-17T13:40:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -997,7 +1470,7 @@
     "published_at": "2026-11-17T13:38:09+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1008,7 +1481,7 @@
     "published_at": "2026-11-17T13:36:28+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1019,7 +1492,7 @@
     "published_at": "2026-11-17T13:30:42+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1030,7 +1503,7 @@
     "published_at": "2026-11-17T13:07:55+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1041,7 +1514,7 @@
     "published_at": "2026-11-17T12:44:30+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1052,7 +1525,7 @@
     "published_at": "2026-11-17T12:36:24+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1063,7 +1536,7 @@
     "published_at": "2026-11-17T11:44:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1074,7 +1547,7 @@
     "published_at": "2026-11-17T09:36:38+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1096,7 +1569,7 @@
     "published_at": "2026-11-16T23:53:58+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1107,7 +1580,7 @@
     "published_at": "2026-11-16T23:53:58+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-18T14:26:48.640396+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1129,7 +1602,7 @@
     "published_at": "2026-11-16T21:16:35+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-18T14:26:48.640396+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1140,7 +1613,7 @@
     "published_at": "2026-11-16T21:16:35+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1151,7 +1624,7 @@
     "published_at": "2026-11-16T15:46:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1162,7 +1635,7 @@
     "published_at": "2026-11-16T14:14:54+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1184,7 +1657,7 @@
     "published_at": "2026-11-16T12:36:31+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-16T13:27:05.421948+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1206,7 +1679,7 @@
     "published_at": "2026-11-16T12:26:30+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1228,7 +1701,7 @@
     "published_at": "2026-11-16T10:43:47+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-16T13:27:05.421948+07:00",
-    "last_seen": "2026-11-18T14:26:48.640396+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1239,7 +1712,7 @@
     "published_at": "2026-11-16T09:24:48+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-16T13:27:05.421948+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1261,7 +1734,7 @@
     "published_at": "2026-11-16T07:11:50+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-16T13:27:05.421948+07:00",
-    "last_seen": "2026-11-16T13:27:05.421948+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1283,7 +1756,7 @@
     "published_at": "2026-11-16T07:05:50+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1294,7 +1767,7 @@
     "published_at": "2026-11-16T07:04:31+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-16T13:27:05.421948+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1316,7 +1789,7 @@
     "published_at": "2026-11-15T11:02:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1338,7 +1811,7 @@
     "published_at": "2026-11-15T09:21:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1349,7 +1822,7 @@
     "published_at": "2026-11-15T06:44:53+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1371,7 +1844,7 @@
     "published_at": "2026-11-14T22:31:34+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-17T14:54:13.907734+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1393,7 +1866,7 @@
     "published_at": "2026-11-14T20:23:12+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1404,7 +1877,7 @@
     "published_at": "2026-11-14T18:16:20+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1415,7 +1888,7 @@
     "published_at": "2026-11-14T17:14:07+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1426,7 +1899,7 @@
     "published_at": "2026-11-14T17:10:03+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-15T13:29:54.244868+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1437,7 +1910,7 @@
     "published_at": "2026-11-14T15:55:24+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1448,7 +1921,7 @@
     "published_at": "2026-11-14T15:48:55+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1459,7 +1932,7 @@
     "published_at": "2026-11-14T15:46:53+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1470,7 +1943,7 @@
     "published_at": "2026-11-14T15:30:18+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1492,7 +1965,7 @@
     "published_at": "2026-11-14T14:07:36+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-18T14:26:48.640396+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1514,7 +1987,7 @@
     "published_at": "2026-11-14T12:39:13+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-14T13:21:03.704185+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1536,7 +2009,7 @@
     "published_at": "2026-11-14T11:26:45+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-15T13:29:54.244868+07:00",
-    "last_seen": "2026-11-18T14:26:48.640396+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1547,7 +2020,7 @@
     "published_at": "2026-11-14T10:22:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-14T13:21:03.704185+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1569,7 +2042,7 @@
     "published_at": "2026-11-14T08:40:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-14T13:21:03.704185+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1580,7 +2053,7 @@
     "published_at": "2026-11-14T08:28:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-14T13:21:03.704185+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1591,7 +2064,7 @@
     "published_at": "2026-11-14T06:26:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-17T14:54:13.907734+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -1602,7 +2075,7 @@
     "published_at": "2026-11-14T06:13:00+07:00",
     "province_hint": "Banten",
     "first_seen": "2026-11-14T13:21:03.704185+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -2273,7 +2746,7 @@
     "published_at": "2026-11-12T10:55:05+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-12T14:08:34.737601+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -4858,7 +5331,7 @@
     "published_at": "2026-11-05T19:07:01+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-06T13:42:52.783470+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -5287,7 +5760,7 @@
     "published_at": "2026-11-03T15:00:00+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-11-08T12:59:06.648712+07:00",
-    "last_seen": "2026-11-13T13:43:27.818877+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {
@@ -26418,7 +26891,7 @@
     "published_at": "2026-08-21T00:05:35+07:00",
     "province_hint": "Belum diketahui",
     "first_seen": "2026-10-29T00:19:52.890822+07:00",
-    "last_seen": "2026-11-19T14:24:18.221175+07:00",
+    "last_seen": "2026-11-21T14:05:23.063977+07:00",
     "review_status": "Belum ditinjau"
   },
   {

@@ -24512,5 +24512,840 @@
     "total_articles": 3748,
     "failed_queries": 78,
     "last_success_at": "2026-11-19T14:25:26.523789+07:00"
+  },
+  {
+    "started_at": "2026-11-21T14:05:23.063977+07:00",
+    "requested_start": "2026-11-14",
+    "requested_end_exclusive": "2026-11-22",
+    "queries": [
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 88,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Aceh",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Aceh+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 30,
+        "accepted": 22,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sumatera Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Utara+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 30,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sumatera Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Barat+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 31,
+        "accepted": 15,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Riau+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 18,
+        "accepted": 8,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kepulauan Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Riau+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 12,
+        "accepted": 5,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Jambi",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jambi+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 21,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sumatera Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Selatan+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 32,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Bengkulu",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bengkulu+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 17,
+        "accepted": 11,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Lampung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Lampung+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 29,
+        "accepted": 16,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kepulauan Bangka Belitung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Bangka+Belitung+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 3,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "DKI Jakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DKI+Jakarta+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 24,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Banten",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Banten+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 27,
+        "accepted": 22,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Jawa Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Barat+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 30,
+        "accepted": 21,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Jawa Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Tengah+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 25,
+        "accepted": 17,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "DI Yogyakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DI+Yogyakarta+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 28,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Jawa Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Timur+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 36,
+        "accepted": 33,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Bali",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bali+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 33,
+        "accepted": 18,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Nusa Tenggara Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Barat+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 13,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Nusa Tenggara Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Timur+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 14,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kalimantan Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Barat+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 24,
+        "accepted": 15,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kalimantan Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Tengah+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 23,
+        "accepted": 10,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kalimantan Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Selatan+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 10,
+        "accepted": 5,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kalimantan Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Timur+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 32,
+        "accepted": 18,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Kalimantan Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Utara+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 2,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sulawesi Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Utara+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 7,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Gorontalo",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Gorontalo+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sulawesi Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tengah+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 22,
+        "accepted": 9,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sulawesi Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Barat+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 10,
+        "accepted": 6,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sulawesi Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Selatan+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 29,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Sulawesi Tenggara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tenggara+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 8,
+        "accepted": 5,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Maluku Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+Utara+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 10,
+        "accepted": 7,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Maluku",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 15,
+        "accepted": 10,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Papua Barat Daya",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+Daya+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 9,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Papua Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 21,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Papua Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Tengah+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 21,
+        "accepted": 12,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Papua Pegunungan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Pegunungan+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 6,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Papua Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Selatan+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 16,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-21",
+        "area": "Papua",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+after%3A2026-11-13+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 31,
+        "accepted": 16,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 24,
+        "accepted": 3,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Aceh",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Aceh+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sumatera Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Utara+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sumatera Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Barat+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Riau+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kepulauan Riau",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Riau+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Jambi",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jambi+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 8,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sumatera Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sumatera+Selatan+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Bengkulu",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bengkulu+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Lampung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Lampung+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kepulauan Bangka Belitung",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kepulauan+Bangka+Belitung+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "DKI Jakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DKI+Jakarta+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 1,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Banten",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Banten+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 6,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Jawa Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Barat+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 13,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Jawa Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Tengah+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 17,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "DI Yogyakarta",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+DI+Yogyakarta+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 7,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Jawa Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Jawa+Timur+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 21,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Bali",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Bali+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 12,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Nusa Tenggara Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Barat+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 3,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Nusa Tenggara Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Nusa+Tenggara+Timur+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kalimantan Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Barat+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kalimantan Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Tengah+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kalimantan Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Selatan+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kalimantan Timur",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Timur+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 6,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Kalimantan Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Kalimantan+Utara+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sulawesi Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Utara+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Gorontalo",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Gorontalo+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sulawesi Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tengah+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 5,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sulawesi Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Barat+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sulawesi Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Selatan+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Sulawesi Tenggara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Sulawesi+Tenggara+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Maluku Utara",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+Utara+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Maluku",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Maluku+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 2,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Papua Barat Daya",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+Daya+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Papua Barat",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Barat+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 4,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Papua Tengah",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Tengah+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 3,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Papua Pegunungan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Pegunungan+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Papua Selatan",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+Selatan+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 0,
+        "accepted": 0,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-21",
+        "end": "2026-11-22",
+        "area": "Papua",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan+Papua+after%3A2026-11-20+before%3A2026-11-22&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 8,
+        "accepted": 1,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-14",
+        "end": "2026-11-17",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-13+before%3A2026-11-17&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 57,
+        "accepted": 31,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-17",
+        "end": "2026-11-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-16+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 100,
+        "accepted": 84,
+        "possibly_capped": true,
+        "subdivided": true
+      },
+      {
+        "start": "2026-11-17",
+        "end": "2026-11-19",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-16+before%3A2026-11-19&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 96,
+        "accepted": 73,
+        "possibly_capped": false
+      },
+      {
+        "start": "2026-11-19",
+        "end": "2026-11-21",
+        "area": "Nasional",
+        "url": "https://news.google.com/rss/search?q=%28MBG+OR+%22makan+bergizi+gratis%22%29+keracunan++after%3A2026-11-18+before%3A2026-11-21&hl=id&gl=ID&ceid=ID%3Aid",
+        "status": "ok",
+        "feed_items": 91,
+        "accepted": 49,
+        "possibly_capped": false
+      }
+    ],
+    "added": 43,
+    "status": "ok",
+    "finished_at": "2026-11-21T14:06:28.742626+07:00",
+    "total_articles": 3791,
+    "failed_queries": 0,
+    "last_success_at": "2026-11-21T14:06:28.742626+07:00"
   }
 ]
